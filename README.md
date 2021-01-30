@@ -9,3 +9,12 @@
 ####### Pavani
 <hr>
 <h1>this is html syntax</h1>
+
+
+Another heading format
+ - - - - - - - - - - 
+ 
+ 
+ 
+ Another heading format
+ *************************
